@@ -7,9 +7,9 @@
 ![UserDefaults](https://img.shields.io/badge/UserDefaults-Local%20Storage-yellowgreen)
 
 <p align="center">
-  <img src="images/main-screen.png" width="250">
-  <img src="images/premium-row.png" width="250">
-  <img src="images/premium-enabled.png" width="250">
+  <img src="https://github.com/user-attachments/assets/21408c52-1965-4da0-9154-70381ed604a6" width="250">
+  <img src="https://github.com/user-attachments/assets/c2526c63-4efd-4ec2-9955-a8f0601a9998" width="250">
+  <img src="https://github.com/user-attachments/assets/39d114e2-5cef-42d7-9dba-16d1c343dcad" width="250">
 </p>
 
 ## Overview
